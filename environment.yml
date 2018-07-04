@@ -9,4 +9,4 @@ dependencies:
   - matplotlib
   - graphviz
   - pandas
-  - sklearn
+  - scikit-learn
