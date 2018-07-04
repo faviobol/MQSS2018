@@ -7,4 +7,6 @@ dependencies:
   - psutil
   - toolz
   - matplotlib
-  - pandaS
+  - graphviz
+  - pandas
+  - sklearn
